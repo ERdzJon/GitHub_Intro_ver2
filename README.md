@@ -6,3 +6,6 @@ Se agrega ctrl+S
 
  ## Insertar una imagen
 ![pruebaImagen1](img/sn-color.jpg)
+
+# Prueba de la rama 
+![pruebaImagen2](img/unmnamed.jpg)
