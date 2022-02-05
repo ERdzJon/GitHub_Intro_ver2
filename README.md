@@ -4,3 +4,4 @@
 -Se puede añadir contenido-
 
 ##Insertar una imagen
+![pruebaImagen1](img/sn-color.jpg)
