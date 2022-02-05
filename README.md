@@ -8,4 +8,4 @@ Se agrega ctrl+S
 ![pruebaImagen1](img/sn-color.jpg)
 
 # Prueba de la rama 
-![pruebaImagen2](img/unmnamed.jpg)
+![pruebaImagen2](img/unnamed.jpg)
